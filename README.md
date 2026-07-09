@@ -24,11 +24,6 @@ This project analyzes climate indicators and predicts temperature anomalies usin
 ## Machine Learning Model
 - Linear Regression
 
-## Evaluation Metrics
-- MAE: 0.15
-- RMSE: 0.39
-- R² Score: -0.018
-
 ## Project Workflow
 1. Data Understanding
 2. Data Cleaning
